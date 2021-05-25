@@ -1,2 +1,4 @@
 files added by devB
 added new feature
+
+Added new details in Feat2 branch
