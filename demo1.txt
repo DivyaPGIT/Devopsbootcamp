@@ -1,4 +1,7 @@
 files added by devB
 added new feature
 
+
 Added additional feature by feat1 branch
+Added new details in Feat2 branch
+
